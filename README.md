@@ -16,17 +16,17 @@
 
 ---
 
-### 🧑‍💻 About me
+### About me
 
-- 🎓 Year-3 **Computer Science &amp; Design** undergraduate at the **Singapore University of Technology and Design** (GPA **4.96/5.0**, SUTD ASEAN Scholarship, Honours List AY 2024/2025).
-- 🍁 Incoming exchange at the **University of Waterloo** (Faculty of Mathematics, Sep–Dec 2026), Canada-ASEAN SEED-2 scholar.
-- 🔬 Applied-research background through **three SUTD UROPs**, now leaning into hands-on, product-facing ML engineering.
-- 🛢️ Built time-series Transformers for **virtual sensing** as an **ML R&amp;D Intern at Bosch** (Sep–Dec 2025).
-- 🎯 Seeking a **Jan–Sep 2027 ML/AI, Data Science, or SWE internship** with a Singapore-based MNC.
+- Year-3 **Computer Science &amp; Design** undergraduate at the **Singapore University of Technology and Design** (GPA **4.96/5.0**, SUTD ASEAN Scholarship, Honours List AY 2024/2025).
+- Incoming exchange at the **University of Waterloo** (Faculty of Mathematics, Sep–Dec 2026), Canada-ASEAN SEED-2 scholar.
+- Applied-research background through **three SUTD UROPs**, now leaning into hands-on, product-facing ML engineering.
+- Built time-series Transformers for **virtual sensing** as an **ML R&amp;D Intern at Bosch** (Sep–Dec 2025).
+- Seeking a **Jan–Sep 2027 ML/AI, Data Science, or SWE internship** with a Singapore-based MNC.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -76,7 +76,7 @@
 
 ---
 
-### 💼 Experience
+### Experience
 
 **Bosch Group (Southeast Asia)** — *Machine Learning R&amp;D Intern, Multimodal Sensing for Smart Ovens* · Sep–Dec 2025
 - Trained **PatchTST / PatchTSMixer** time-series Transformers (HuggingFace) predicting food weight from fused oven sensor data: **R² = 0.982, MAE = 40.44 g** on cakes.
@@ -85,7 +85,7 @@
 
 ---
 
-### 🔬 Research (UROPs)
+### Research (UROPs)
 
 - **Multiple LLM Agents for Multimodal Content Generation** *(Jan 2026 – present)* — multi-agent framework on **Google Vertex AI ADK** + LangChain/LangGraph; a Gemini Deep Research stage fans out to notes, flashcard, HTML, video, and PDF agents. Built high-concurrency pipelines (asyncio + `ProcessPoolExecutor`) to bypass the GIL.
 - **Twistronics: ML-Driven Multiband Polarization Converter** *(May 2026 – present)* — ML inverse-design for twisted bilayer photonic crystals targeting sharp circular dichroism (600–850 nm); stage-1 data pipeline with an RCWA-4D EM solver and Latin-hypercube sampling.
@@ -93,20 +93,20 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🩺 **Breast Cancer Image Classifier** | ResNet50 transfer learning on mammograms — **99.7%** test accuracy; DICOM pipeline from TCIA | PyTorch, CNNs |
-| 🎮 **Game Review NLP** | DistilBERT fine-tuned on **4.2M** reviews — **94.9%** sentiment accuracy (0.949 F1) | HuggingFace, NLP |
-| 🌾 **Crop Yield Prediction** | End-to-end ML on **42K** records; linear regression + gradient descent **from scratch**, up to **96%** error cut | NumPy, Streamlit |
-| 📱 **FoodTok** | TikTok-style recipe Android app; OOP design patterns, custom Trie + max-heap, Gemini-powered chat | Java, Supabase, Gemini |
-| 🧠 **DAS D.I.A.L** | Multi-agent **RAG** learning platform for the Dyslexia Association of Singapore | FastAPI, LangGraph, pgvector |
-| 🦈 **Shark Habitat Prediction** | Markov-chain modelling of Great White movement from ARGOS telemetry | NumPy, Markov chains |
+| **Breast Cancer Image Classifier** | ResNet50 transfer learning on mammograms — **99.7%** test accuracy; DICOM pipeline from TCIA | PyTorch, CNNs |
+| **Game Review NLP** | DistilBERT fine-tuned on **4.2M** reviews — **94.9%** sentiment accuracy (0.949 F1) | HuggingFace, NLP |
+| **Crop Yield Prediction** | End-to-end ML on **42K** records; linear regression + gradient descent **from scratch**, up to **96%** error cut | NumPy, Streamlit |
+| **FoodTok** | TikTok-style recipe Android app; OOP design patterns, custom Trie + max-heap, Gemini-powered chat | Java, Supabase, Gemini |
+| **DAS D.I.A.L** | Multi-agent **RAG** learning platform for the Dyslexia Association of Singapore | FastAPI, LangGraph, pgvector |
+| **Shark Habitat Prediction** | Markov-chain modelling of Great White movement from ARGOS telemetry | NumPy, Markov chains |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=clifftonowen&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
@@ -115,7 +115,7 @@
 
 ---
 
-### 📜 Certifications
+### Certifications
 
 - **Deep Learning Specialization** — DeepLearning.AI (2025)
 - **Full-Stack Web Development** — Timedoor Academy (2024)
