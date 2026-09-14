@@ -16,13 +16,24 @@
 
 ---
 
+### Things you can actually open
+
+| | | |
+|---|---|---|
+| **[markpoint.app](https://markpoint.app)** | Past-paper retrieval and marking for CIE A-Levels | Solo, in production |
+| **[DAS D.I.A.L](https://das-dial-7y5.pages.dev)** | RAG learning platform built for the Dyslexia Association of Singapore | Team of 8 |
+| **[parallel-ai-agents](https://parallel-ai-agents.vercel.app)** | Multi-agent educational content pipeline, three concurrency models behind one interface | UROP (front end deployed) |
+
+---
+
 ### About me
 
-- Year-3 **Computer Science &amp; Design** undergraduate at the **Singapore University of Technology and Design** (GPA **4.96/5.0**, SUTD ASEAN Scholarship, Honours List AY 2024/2025).
-- Incoming exchange at the **University of Waterloo** (Faculty of Mathematics, Sep–Dec 2026), Canada-ASEAN SEED-2 scholar.
+- Year-3 **Computer Science &amp; Design** undergraduate at the **Singapore University of Technology and Design** (GPA **4.99/5.0**, SUTD ASEAN Scholarship, Honours List AY 2024/2025).
+- Exchange semester at the **University of Waterloo** (Faculty of Mathematics, Sep–Dec 2026), Canada-ASEAN SEED-2 scholar.
+- **Incoming Data Scientist &amp; Automation Intern at Infineon Technologies** (Dec 2026 – Apr 2027), Advanced Analytics &amp; AI.
 - Applied-research background through **three SUTD UROPs**, now leaning into hands-on, product-facing ML engineering.
 - Built time-series Transformers for **virtual sensing** as an **ML R&amp;D Intern at Bosch** (Sep–Dec 2025).
-- Seeking a **Jan–Sep 2027 ML/AI, Data Science, or SWE internship** with a Singapore-based MNC.
+- Open to a **May–Sep 2027** ML/AI, Data Science, or SWE internship with a Singapore-based MNC.
 
 ---
 
@@ -44,6 +55,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
@@ -54,6 +66,7 @@
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat&logo=anthropic&logoColor=white)
 
 **Web / App**
 
@@ -65,9 +78,19 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
+**Deployment &amp; CI/CD**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=flat&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-24175B?style=flat&logo=flydotio&logoColor=white)
+
 **Data &amp; Infra**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -78,16 +101,18 @@
 
 ### Experience
 
+**Infineon Technologies** — *Incoming Data Scientist &amp; Automation Intern, Digitalization / Advanced Analytics &amp; AI* · Dec 2026 – Apr 2027
+
 **Bosch Group (Southeast Asia)** — *Machine Learning R&amp;D Intern, Multimodal Sensing for Smart Ovens* · Sep–Dec 2025
-- Trained **PatchTST / PatchTSMixer** time-series Transformers (HuggingFace) predicting food weight from fused oven sensor data: **R² = 0.982, MAE = 40.44 g** on cakes.
+- Trained **PatchTST / PatchTSMixer** time-series Transformers (HuggingFace) predicting food weight from fused oven sensor data: **R² = 0.982, MAE = 40.44 g** across 125 cakes.
 - Engineered an end-to-end pipeline over **441 raw sensor-log files** (alignment, QC filters, weighted quality scoring) for a meat-weight extension.
-- Used PCA + ElasticNet/Ridge baselines to justify a pivot to deep learning; presented "Virtual Sensing" feasibility across ~30 cross-functional stakeholder decks.
+- Used PCA with ElasticNet/Ridge baselines to justify a pivot to deep learning, then presented "Virtual Sensing" feasibility to cross-functional stakeholders, translating sensor dynamics into actionable features for next-generation Series 8 ovens.
 
 ---
 
 ### Research (UROPs)
 
-- **Multiple LLM Agents for Multimodal Content Generation** *(Jan 2026 – present)* — multi-agent framework on **Google Vertex AI ADK** + LangChain/LangGraph; a Gemini Deep Research stage fans out to notes, flashcard, HTML, video, and PDF agents. Built high-concurrency pipelines (asyncio + `ProcessPoolExecutor`) to bypass the GIL.
+- **Multiple LLM Agents for Multimodal Content Generation** *(Jan – Aug 2026)* — a `Notes → (Flashcards ‖ Video ‖ PDF)` educational-content pipeline implemented **three ways behind one interface** (ThreadPoolExecutor, asyncio, Google Vertex AI ADK) with MCP tool servers, a FastAPI + SSE backend, a semantic prompt cache, and two React/TypeScript front ends. Per-phase profiling showed media assembly dominates wall-clock, not scheduling.
 - **Twistronics: ML-Driven Multiband Polarization Converter** *(May 2026 – present)* — ML inverse-design for twisted bilayer photonic crystals targeting sharp circular dichroism (600–850 nm); stage-1 data pipeline with an RCWA-4D EM solver and Latin-hypercube sampling.
 - **Approximate Sorting with Probabilistic Control** *(May–Sep 2025)* — approximate sorting (Multizip, Corsort, Bucket Sort) for real-time AI such as emergency drone landings; analysed speed/accuracy trade-offs and probabilistic error bounds.
 
@@ -97,21 +122,34 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Breast Cancer Image Classifier** | ResNet50 transfer learning on mammograms — **99.7%** test accuracy; DICOM pipeline from TCIA | PyTorch, CNNs |
-| **Game Review NLP** | DistilBERT fine-tuned on **4.2M** reviews — **94.9%** sentiment accuracy (0.949 F1) | HuggingFace, NLP |
-| **Crop Yield Prediction** | End-to-end ML on **42K** records; linear regression + gradient descent **from scratch**, up to **96%** error cut | NumPy, Streamlit |
-| **FoodTok** | TikTok-style recipe Android app; OOP design patterns, custom Trie + max-heap, Gemini-powered chat | Java, Supabase, Gemini |
-| **DAS D.I.A.L** | Multi-agent **RAG** learning platform for the Dyslexia Association of Singapore | FastAPI, LangGraph, pgvector |
-| **Shark Habitat Prediction** | Markov-chain modelling of Great White movement from ARGOS telemetry | NumPy, Markov chains |
+| **[markpoint](https://markpoint.app)** | **315** past papers parsed into **10,892** questions and **30,176** mark points; two-stage retrieval (reciprocal-rank fusion of lexical + pgvector, then IDF-weighted Jaccard rerank), citations assembled in SQL so a model can never emit a paper number. **1,109 backend + 347 front-end tests** | FastAPI, PostgreSQL 17 + pgvector, React 19 |
+| **[DAS D.I.A.L](https://das-dial-7y5.pages.dev)** | Guardrailed RAG learning platform for the Dyslexia Association of Singapore; shipped behind a test-gated CD pipeline with commit-SHA image tagging and OIDC federated auth | FastAPI, LangGraph, pgvector, Azure |
+| **GenAI Content Detection** | Machine-generated-text detection: Macro F1 **0.657 → 0.801**, beating the shared task's fine-tuned **RoBERTa baseline (0.7342)** with a classical pipeline and raw-text stylometry | LightGBM, scikit-learn |
+| **Game Review NLP** | DistilBERT on **4.2M** reviews — **94.9%** sentiment accuracy (0.949 F1), plus **60.7%** top-1 game identification across **1,232** titles (random baseline ~0.08%) | HuggingFace, NLP |
+| **Breast Cancer Image Classifier** | ResNet50 transfer learning on mammograms — **99.7%** test accuracy; DICOM pipeline from Cancer Imaging Archive (TCIA) | PyTorch, CNNs |
+| **Crop Yield Prediction** | End-to-end ML on **42,306** records; adjusted **R² 0.966**, with linear regression and gradient descent written **from scratch** | NumPy, Streamlit |
+| **FoodTok** | TikTok-style recipe Android app; OOP design patterns, custom Trie + max-heap, Gemini-powered chat. ISTD Honourable Mention | Java, Supabase, Gemini |
+| **Shark Habitat Prediction** | Markov-chain modelling of Great White movement from ARGOS telemetry; steady-state vector for long-term hotspots | NumPy, Markov chains |
 
 ---
 
-### GitHub Stats
+<!--
+GitHub stats cards were removed on 13 Sep 2026: github-readme-stats.vercel.app now returns
+HTTP 503 DEPLOYMENT_PAUSED for every username, including its own author's and its root URL.
+It is the shared instance that is down, not this account.
+
+To restore them, self-host the project on your own Vercel account and swap the hostname below:
+  1. Fork github.com/anuraghazra/github-readme-stats
+  2. Import the fork on vercel.com, deploy it
+  3. Add an env var PAT_1 = a GitHub personal access token (classic, scope: repo -> read access)
+     This is also what makes count_private=true actually work.
+  4. Uncomment the block below, replacing YOUR-INSTANCE with the new deployment hostname.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=clifftonowen&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clifftonowen&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=clifftonowen&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=clifftonowen&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 </p>
+-->
 
 ---
 
@@ -120,4 +158,4 @@
 - **Deep Learning Specialization** — DeepLearning.AI (2025)
 - **Full-Stack Web Development** — Timedoor Academy (2024)
 
-<p align="center"><i>Open to ML/AI, Data Science, and SWE internships in Singapore (Jan–Sep 2027). Let's build something.</i></p>
+<p align="center"><i>Open to ML/AI, Data Science, and SWE internships in Singapore (May–Sep 2027). Let's build something.</i></p>
