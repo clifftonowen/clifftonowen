@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://clifftonowen.me"><img src="https://img.shields.io/badge/clifftonowen.me-0B0A0D?style=flat&logo=vercel&logoColor=white" alt="Website"></a>
   <a href="https://linkedin.com/in/cliffton-owen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:owencliffton@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/clifftonowen"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
@@ -20,6 +21,7 @@
 
 | | | |
 |---|---|---|
+| **[clifftonowen.me](https://clifftonowen.me)** | My site. Four case studies, and two models you can run in your browser | Solo |
 | **[markpoint.app](https://markpoint.app)** | Past-paper retrieval and marking for CIE A-Levels | Solo, in production |
 | **[DAS D.I.A.L](https://das-dial-7y5.pages.dev)** | RAG learning platform built for the Dyslexia Association of Singapore | Team of 8 |
 | **[parallel-ai-agents](https://parallel-ai-agents.vercel.app)** | Multi-agent educational content pipeline, three concurrency models behind one interface | UROP (front end deployed) |
