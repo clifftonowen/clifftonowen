@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cliffton Owen Gunawan 👋</h1>
 
 <p align="center">
-  <b>ML / AI Engineer in the making</b> · Time-series deep learning · LLM multi-agent systems · End-to-end ML pipelines
+  <b>Aspiring ML / AI Engineer</b> · Time-series deep learning · LLM multi-agent systems · End-to-end ML pipelines
 </p>
 
 <p align="center">
@@ -17,31 +17,32 @@
 
 ---
 
-### Things you can actually open
+### Live demos and apps
 
-| | | |
+| Project | What you can try | Context |
 |---|---|---|
-| **[clifftonowen.me](https://clifftonowen.me)** | My site. Four case studies, and two models you can run in your browser | Solo |
-| **[markpoint.app](https://markpoint.app)** | Past-paper retrieval and marking for CIE A-Levels | Solo, in production |
-| **[DAS D.I.A.L](https://das-dial-7y5.pages.dev)** | RAG learning platform built for the Dyslexia Association of Singapore | Team of 8 |
-| **[parallel-ai-agents](https://parallel-ai-agents.vercel.app)** | Multi-agent educational content pipeline, three concurrency models behind one interface | UROP (front end deployed) |
+| **[clifftonowen.me](https://clifftonowen.me)** | Project case studies and two NLP models running in your browser | Personal portfolio |
+| **[markpoint](https://markpoint.app)** | CIE A-Level question search, marking, quizzes and class assignments across five subjects | Solo, in production; handwriting exam mode in beta |
+| **[DAS D.I.A.L](https://das-dial-7y5.pages.dev)** | Personalised learning activities and progress dashboards for the Dyslexia Association of Singapore | Team of 8 |
+| **[Study Bench](https://parallel-ai-agents.vercel.app)** | Browse a completed set of generated notes, flashcards, PDFs and narrated video | UROP; pre-generated demo, on-demand generation not yet hosted |
+| **[FoodTok APK](https://github.com/clifftonowen/FoodTok/releases/latest)** | Android recipe discovery with a video feed, ingredient search and recipe chat | Team of 6; downloadable build |
 
 ---
 
 ### About me
 
 - Year-3 **Computer Science &amp; Design** undergraduate at the **Singapore University of Technology and Design** (GPA **4.99/5.0**, SUTD ASEAN Scholarship, Honours List AY 2024/2025).
-- Exchange semester at the **University of Waterloo** (Faculty of Mathematics, Sep–Dec 2026), Canada-ASEAN SEED-2 scholar.
-- **Incoming Data Scientist &amp; Automation Intern at Infineon Technologies** (Dec 2026 – Apr 2027), Advanced Analytics &amp; AI.
-- Applied-research background through **three SUTD UROPs**, now leaning into hands-on, product-facing ML engineering.
-- Built time-series Transformers for **virtual sensing** as an **ML R&amp;D Intern at Bosch** (Sep–Dec 2025).
-- Open to a **May–Sep 2027** ML/AI, Data Science, or SWE internship with a Singapore-based MNC.
+- Exchange semester at the **University of Waterloo** (Faculty of Mathematics, Sep to Dec 2026), Canada-ASEAN SEED-2 scholar.
+- **Incoming Data Scientist &amp; Automation Intern at Infineon Technologies** (Dec 2026 to Apr 2027), Advanced Analytics &amp; AI.
+- I approached professors to start **three SUTD UROPs**. I now want to take that research experience into ML applications people use.
+- Built time-series Transformers for **virtual sensing** as an **ML R&amp;D Intern at Bosch** (Sep to Dec 2025).
+- Open to a **May to Sep 2027** ML/AI, Data Science, or SWE internship with a Singapore-based MNC.
 
 ---
 
-### Tech Stack
+### Tech stack
 
-**Languages**
+**Programming languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
@@ -51,7 +52,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Machine Learning / Data Science**
+**Machine learning / Data science**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -62,7 +63,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
-**LLM / Agents &amp; Cloud APIs**
+**LLM / Agents &amp; cloud APIs**
 
 ![Vertex AI](https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
@@ -89,7 +90,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Fly.io](https://img.shields.io/badge/Fly.io-24175B?style=flat&logo=flydotio&logoColor=white)
 
-**Data &amp; Infra**
+**Data &amp; infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -103,9 +104,10 @@
 
 ### Experience
 
-**Infineon Technologies** — *Incoming Data Scientist &amp; Automation Intern, Digitalization / Advanced Analytics &amp; AI* · Dec 2026 – Apr 2027
+**Infineon Technologies** · *Incoming Data Scientist &amp; Automation Intern, Digitalization / Advanced Analytics &amp; AI* · Dec 2026 to Apr 2027
 
-**Bosch Group (Southeast Asia)** — *Machine Learning R&amp;D Intern, Multimodal Sensing for Smart Ovens* · Sep–Dec 2025
+**Bosch Group (Southeast Asia)** · *Machine Learning R&amp;D Intern, Multimodal Sensing for Smart Ovens* · Sep to Dec 2025
+
 - Trained **PatchTST / PatchTSMixer** time-series Transformers (HuggingFace) predicting food weight from fused oven sensor data: **R² = 0.982, MAE = 40.44 g** across 125 cakes.
 - Engineered an end-to-end pipeline over **441 raw sensor-log files** (alignment, QC filters, weighted quality scoring) for a meat-weight extension.
 - Used PCA with ElasticNet/Ridge baselines to justify a pivot to deep learning, then presented "Virtual Sensing" feasibility to cross-functional stakeholders, translating sensor dynamics into actionable features for next-generation Series 8 ovens.
@@ -114,50 +116,44 @@
 
 ### Research (UROPs)
 
-- **Multiple LLM Agents for Multimodal Content Generation** *(Jan – Aug 2026)* — a `Notes → (Flashcards ‖ Video ‖ PDF)` educational-content pipeline implemented **three ways behind one interface** (ThreadPoolExecutor, asyncio, Google Vertex AI ADK) with MCP tool servers, a FastAPI + SSE backend, a semantic prompt cache, and two React/TypeScript front ends. Per-phase profiling showed media assembly dominates wall-clock, not scheduling.
-- **Twistronics: ML-Driven Multiband Polarization Converter** *(May 2026 – present)* — ML inverse-design for twisted bilayer photonic crystals targeting sharp circular dichroism (600–850 nm); stage-1 data pipeline with an RCWA-4D EM solver and Latin-hypercube sampling.
-- **Approximate Sorting with Probabilistic Control** *(May–Sep 2025)* — approximate sorting (Multizip, Corsort, Bucket Sort) for real-time AI such as emergency drone landings; analysed speed/accuracy trade-offs and probabilistic error bounds.
+**[Multiple LLM Agents for Multimodal Content Generation](https://github.com/clifftonowen/parallel-ai-agents)** · Jan to Aug 2026
+
+- Turns a topic into notes, flashcards, PDFs and narrated video. Three interchangeable orchestrators use ThreadPoolExecutor, asyncio and Google ADK behind a FastAPI backend with streamed progress, cancellation, run history and a semantic prompt cache.
+- Replacing MoviePy with direct ffmpeg cut assembly time from **489.3s to 38.7s** on a seven-slide benchmark, measured over three runs per configuration. Repeated tests found no measurable advantage from changing the concurrency model alone.
+- The public site includes a completed demo run. The backend has account quotas and signed download links; hosting for on-demand generation is still in progress.
+
+**[Twistronics: ML-Driven Multiband Polarization Converter](https://github.com/clifftonowen/twistronics-ml-urop)** · May 2026 to present
+
+- Generates optical-response datasets for twisted bilayer photonic crystals using RCWA-4D simulation and Latin-hypercube sampling, with multiprocessing and physics sanity checks.
+- Completed a convergence study and a forward model for transmission. The current dataset uses approximate simulations; predicting circular dichroism reliably and inverse design remain open work.
+
+**Approximate Sorting with Probabilistic Control** · May to Sep 2025
+
+- Studied Multizip, Corsort and Bucket Sort for time-constrained AI tasks such as emergency drone landings, comparing speed, accuracy and probabilistic error bounds.
 
 ---
 
-### Featured Projects
+### Featured projects
 
-| Project | What it is | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| **[markpoint](https://markpoint.app)** | **315** past papers parsed into **10,892** questions and **30,176** mark points; two-stage retrieval (reciprocal-rank fusion of lexical + pgvector, then IDF-weighted Jaccard rerank), citations assembled in SQL so a model can never emit a paper number. **1,109 backend + 347 front-end tests** | FastAPI, PostgreSQL 17 + pgvector, React 19 |
-| **[DAS D.I.A.L](https://das-dial-7y5.pages.dev)** | Guardrailed RAG learning platform for the Dyslexia Association of Singapore; shipped behind a test-gated CD pipeline with commit-SHA image tagging and OIDC federated auth | FastAPI, LangGraph, pgvector, Azure |
-| **GenAI Content Detection** | Machine-generated-text detection: Macro F1 **0.657 → 0.801**, beating the shared task's fine-tuned **RoBERTa baseline (0.7342)** with a classical pipeline and raw-text stylometry | LightGBM, scikit-learn |
-| **Game Review NLP** | DistilBERT on **4.2M** reviews — **94.9%** sentiment accuracy (0.949 F1), plus **60.7%** top-1 game identification across **1,232** titles (random baseline ~0.08%) | HuggingFace, NLP |
-| **Breast Cancer Image Classifier** | ResNet50 transfer learning on mammograms — **99.7%** test accuracy; DICOM pipeline from Cancer Imaging Archive (TCIA) | PyTorch, CNNs |
-| **Crop Yield Prediction** | End-to-end ML on **42,306** records; adjusted **R² 0.966**, with linear regression and gradient descent written **from scratch** | NumPy, Streamlit |
-| **FoodTok** | TikTok-style recipe Android app; OOP design patterns, custom Trie + max-heap, Gemini-powered chat. ISTD Honourable Mention | Java, Supabase, Gemini |
-| **Shark Habitat Prediction** | Markov-chain modelling of Great White movement from ARGOS telemetry; steady-state vector for long-term hotspots | NumPy, Markov chains |
-
----
-
-<!--
-GitHub stats cards were removed on 13 Sep 2026: github-readme-stats.vercel.app now returns
-HTTP 503 DEPLOYMENT_PAUSED for every username, including its own author's and its root URL.
-It is the shared instance that is down, not this account.
-
-To restore them, self-host the project on your own Vercel account and swap the hostname below:
-  1. Fork github.com/anuraghazra/github-readme-stats
-  2. Import the fork on vercel.com, deploy it
-  3. Add an env var PAT_1 = a GitHub personal access token (classic, scope: repo -> read access)
-     This is also what makes count_private=true actually work.
-  4. Uncomment the block below, replacing YOUR-INSTANCE with the new deployment hostname.
-
-<p align="center">
-  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=clifftonowen&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=clifftonowen&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
--->
+| **[Alfa Connectome](https://github.com/clifftonowen/wnn_connectome_starterpack)** | Streaming prediction of anonymised market price movements. **0.65527 public Weighted Pearson correlation**, compared with a supplied **0.59353** baseline. Public leaderboard result; final results pending. | Python, PyTorch, ONNX Runtime |
+| **[markpoint](https://markpoint.app)** | Past-paper search and marking across **Biology, Chemistry, Physics, Maths and IT**. Hybrid lexical/vector retrieval with SQL-generated citations, per-mark-point feedback, multiple-choice quizzes, paper building, classes and gradebooks. Maths/Physics handwriting assignments support teacher review and returned revisions; handwriting exam mode is in beta. Marking availability varies by question. | FastAPI, PostgreSQL 17 + pgvector, React 19 |
+| **[DAS D.I.A.L](https://das-dial-7y5.pages.dev)** | A team-built RAG learning platform with learner profiles, tailored activities and progress dashboards. I handled testing and some use cases, including a coverage-guided fuzzer that found **13 distinct defects in 74.2M executions**, plus the stakeholder handover and demo. | FastAPI, LangGraph, pgvector, Azure |
+| **[GenAI Content Detection](https://github.com/clifftonowen/2026-50.007-Machine-Learning-GenAI-Content-Detection)** | Machine-generated-text detection using a classical ML pipeline and writing-style features. Improved Macro F1 from **0.657 to 0.801**, above the shared task's fine-tuned RoBERTa baseline of **0.7342**. | LightGBM, scikit-learn |
+| **[Game Review NLP](https://github.com/clifftonowen/Game-Review-NLP)** | DistilBERT sentiment and game-identification models trained on **4.2M reviews**. A portfolio extension runs both in-browser with INT8 ONNX weights: **87.3% balanced sentiment accuracy** and **60.0% top-1 game identification across 1,232 titles** (random baseline about 0.08%). | Hugging Face, ONNX Runtime Web, transformers.js |
+| **[Breast Cancer Image Classifier](https://github.com/clifftonowen/Breast-Cancer-Image-Classifier)** | ResNet50 transfer learning with **97.09% test accuracy and ROC-AUC 0.993** on a corrected split keeping each lesion and its augmented images together. Test set: **74 held-out lesions**, with an **83.78%** majority-class baseline. A separate TCIA DICOM pipeline is in progress. | PyTorch, ResNet50, DICOM |
+| **[Crop Yield Prediction](https://github.com/clifftonowen/crop-yield-prediction)** | Crop-yield modelling on **42,306 records**, with adjusted **R² 0.966**. Includes linear regression and gradient descent written from scratch, plus an interactive Streamlit app. | NumPy, Pandas, Streamlit |
+| **[FoodTok](https://github.com/clifftonowen/FoodTok)** · [APK](https://github.com/clifftonowen/FoodTok/releases/latest) | A team-built Android recipe app with a vertical-video feed, Trie ingredient autocomplete, max-heap recommendations and Gemini recipe chat. AI keys stay server-side in Supabase Edge Functions; version tags publish APKs through CI. My main work covered scrolling, database features and heap/Trie implementation. **ISTD Honourable Mention.** | Java, Supabase, Gemini, GitHub Actions |
+| **[P2P Book Exchange](https://github.com/clifftonowen/book-exchange-platform)** | A proof of concept for listing books, requesting exchanges, messaging and post-exchange ratings, with wish lists and OpenAI book recommendations. | Laravel 11, Alpine.js, Tailwind, SQLite |
+| **[Hate Speech Classification](https://github.com/clifftonowen/2025-50.007-Machine-Learning-Hate-Speech-Analysis)** | TF-IDF classification with a locked **3,437-example holdout**. Threshold-calibrated logistic regression achieved **0.653 positive-class F1**, ahead of tuned LightGBM at 0.635. | scikit-learn, LightGBM |
+| **[Shark Habitat Prediction](https://github.com/clifftonowen/shark-prediction-model)** | Markov-chain modelling of Great White movement from ARGOS telemetry, using a steady-state vector to estimate long-term hotspots. | NumPy, Markov chains |
 
 ---
 
 ### Certifications
 
-- **Deep Learning Specialization** — DeepLearning.AI (2025)
-- **Full-Stack Web Development** — Timedoor Academy (2024)
+- **Deep Learning Specialization** · DeepLearning.AI (2025)
+- **Full-Stack Web Development** · Timedoor Academy (2024)
 
-<p align="center"><i>Open to ML/AI, Data Science, and SWE internships in Singapore (May–Sep 2027). Let's build something.</i></p>
+<p align="center"><i>Open to ML/AI, Data Science, and SWE internships in Singapore (May to Sep 2027).</i></p>
